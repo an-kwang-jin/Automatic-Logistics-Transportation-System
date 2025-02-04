@@ -11,7 +11,7 @@ Notice that I referenced diverse tutorials
 
 #1. Slave S/W >> STM32 OLED TUTORIAL : https://www.youtube.com/watch?v=z1Px6emHIeg
 
-#2. Slave S/W >> HC-SR04 Code : https://eteo.tistory.com/155
+#2. Master S/W >> HC-SR04 Code : https://eteo.tistory.com/155
 
 #3. Slave S/W >> 28BYJ-48 Stepping Motor Driver : https://eteo.tistory.com/330
 
