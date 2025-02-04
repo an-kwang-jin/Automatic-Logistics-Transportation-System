@@ -16,5 +16,7 @@ Notice that I referenced diverse tutorials
 #3. Slave S/W >> 28BYJ-48 Stepping Motor Driver : https://eteo.tistory.com/330
 
 I will upload the SLAVE code except OLED tutorial. And I will upload the MASTER full code.
+
 (If you want to use OLED, you can get information through the link#1 above.)
- 
+
+ You can check the result of this project : https://www.instagram.com/p/DD31q4typRS/?igsh=emQ0b3c0a3Q3Yzlw
