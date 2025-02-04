@@ -1,7 +1,7 @@
 # Automatic-Logistics-Transportation-System
-SPI Communication (STM32 &amp; STM32)
+SPI Communication (STM32 &amp; STM32), UART Communication (TeraTerm & BlueTooth app)
 
-Main Function : 1:1 SPI Communication (Master-STM32F103 & Slave-STM32F103)
+Main Function : 1:1 SPI Communication (Master-STM32F103 & Slave-STM32F103), UART Communication(TeraTerm and Bluetooth app)
 
 2nd Function : mini OLED animation(display logistics), 2 step motors(conveyor belt)
 
